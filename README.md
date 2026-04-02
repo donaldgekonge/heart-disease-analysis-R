@@ -1,3 +1,16 @@
+# 🏥 Heart Disease Prediction: A Cross-Language Machine Learning Study
+
+## **Executive Summary**
+This project demonstrates a clinical decision-support tool designed to predict the presence of heart disease using the **UCI Cleveland Heart Disease Dataset**. By implementing the solution in both **Python** and **R**, I highlight the strengths of each language in the data science lifecycle.
+
+### **Key Highlights:**
+- **Data Integrity:** Handled missing values via median imputation and performed feature scaling to ensure model stability.
+- **Predictive Accuracy:** Achieved an accuracy of **83.33% (R)** and **85.25% (Python)** using Logistic Regression.
+- **Clinical Focus:** Prioritized the reduction of False Negatives (Recall) to ensure patient safety in a diagnostic context.
+- **Cross-Platform:** Full reproducibility provided for both scikit-learn (Python) and Tidyverse/Caret (R) environments.
+
+
+
 # Heart-disease-analysis
 Predicting heart disease risk using clinical data "
 
